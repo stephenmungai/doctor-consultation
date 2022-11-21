@@ -1,6 +1,8 @@
 # doctor-consultation
 REQUIEREMENTS
+
 An installation of python 3.8 on your computer
+
 INSTALLATION
 Clone the github repository to a folder of your liking
 Open the folder using VSCode
